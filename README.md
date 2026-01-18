@@ -30,3 +30,7 @@ This project tackles a multi-class classification problem using the Philippines�
 - Python, pandas, NumPy, scikit-learn, PyTorch, imbalanced-learn
 
 - Visualization with Matplotlib & Seaborn
+
+Authors
+Ysabela Erika Alvarez, Julianna Victoria Brizuela, Isaac Dicayanan, Josh Christian Nuñez
+De La Salle University – Laguna Campus | March 28, 2024
