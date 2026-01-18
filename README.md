@@ -4,6 +4,8 @@ A machine learning task performed for the partial completion of the course STINT
 
 This project tackles a multi-class classification problem using the Philippines’ Labor Force Survey (LFS) 2016 dataset. The goal is to predict an individual’s employment status—Employed, Unemployed, or Not in the Labor Force—based on demographic and socioeconomic features.
 
+You can find the used dataset here: https://catalog.ihsn.org/index.php/catalog/7417
+
 # Project Workflow
 1. Data Understanding & EDA
 
