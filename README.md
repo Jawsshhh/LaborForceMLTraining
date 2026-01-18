@@ -32,5 +32,5 @@ This project tackles a multi-class classification problem using the Philippines�
 - Visualization with Matplotlib & Seaborn
 
 Authors
-Ysabela Erika Alvarez, Julianna Victoria Brizuela, Isaac Dicayanan, Josh Christian Nuñez
+Ysabela Erika Alvarez, Julianna Victoria Brizuela, Isaac Dicayanan, Josh Christian Nuñez </br>
 De La Salle University – Laguna Campus | March 28, 2024
